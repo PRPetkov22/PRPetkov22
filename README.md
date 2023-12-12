@@ -32,4 +32,4 @@
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="-----------------------------------------------------">
 </p>
 
-<h1 align="center">Thanks for checking out my Introduction, show us some ❤️ by giving my repo a ⭐️!</h1>
+<h1 align="center">Thanks for checking out my Introduction, show me some ❤️ by giving my repo a ⭐️!</h1>
